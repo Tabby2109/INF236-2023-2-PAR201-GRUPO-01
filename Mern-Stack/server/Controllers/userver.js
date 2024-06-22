@@ -5,7 +5,6 @@ exports.verificarUsuario = async (req, res) => {
 
   try {
     const usuario = await Usuario.findOne({ rut, clave });
-
     if (usuario) {
       res.json({ success: true });
     } else {
