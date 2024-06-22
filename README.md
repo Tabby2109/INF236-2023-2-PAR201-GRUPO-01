@@ -37,6 +37,7 @@ Este es el repositorio del *Grupo 12*, cuyos integrantes son:
 * Nicolás Schiaffino - Rol: 202111576-5
 * Fernando Herrera - Rol: 202173559-3
 * **Tutor**: Sebastián Cifuentes.
+* **Profesor**: Ricardo Salas.
 
 ## Videos Ingeniería de software
 * [Video Hito4, evaluacion del proyecto](https://youtu.be/g3yWB4qwfu0)
