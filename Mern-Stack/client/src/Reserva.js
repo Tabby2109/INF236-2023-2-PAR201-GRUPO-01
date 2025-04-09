@@ -250,11 +250,8 @@ function Reserva({ rut }) {
   );
 }
 
-<<<<<<< HEAD
 Reserva.propTypes = { // Definición añadida
   rut: PropTypes.string.isRequired,
 };
 
-=======
->>>>>>> 463e9a06dc2fa9643762a6893309cba47f447d1b
 export default Reserva;
